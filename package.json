@@ -45,12 +45,12 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/stijnkoopal/angular2-webpack-seed"
   },
   "author": "Stijn Koopal <stijn.koopal@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/stijnkoopal/angular2-webpack-seed/issues"
   },
   "homepage": "",
   "dependencies": {
